@@ -1,0 +1,7 @@
+country,total_customers,churned_customers,churn_rate_pct,country_revenue
+Germany,360,88,24.44,368249.31
+UK,350,70,20,353312.03
+Pakistan,332,93,28.01,343162.68
+India,324,95,29.32,336791.53
+USA,319,75,23.51,328656.78
+Canada,315,72,22.86,321518.32
